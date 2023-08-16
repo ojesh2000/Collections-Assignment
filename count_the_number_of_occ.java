@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.concurrent.*;
 
 
-public class count_the_number_of_occ{
+public class Count_the_number_of_occ{
     public static void main(String[] args) throws IOException {
         //Input Format
         // n -> No. of elements in the array
